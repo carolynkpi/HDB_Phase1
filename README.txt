@@ -10,5 +10,6 @@ Phase 1: Data cleaning and Exploratory Data Analysis (EDA)
 Phase 2: Getting data from Google API and repeat EDA.
 Phase 3: Clustering analysis and predictive analysis. 
 
-Currently, Phase 1 is completed, Phase 2 is in progress. 
+Currently, Phase 1 is completed with the codes contained in this repository.  
 You may view Phase 1 app at this address: https://carolynkpi.shinyapps.io/app_hdb/
+Phase 2 is in progress. 
